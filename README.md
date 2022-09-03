@@ -1,12 +1,12 @@
 ### Hi, I'm Harshit. 👋
 
-I'm currently solving Computer Vision problems at [Vehant](https://www.vehant.com/) using deep learning.
+I'm currently pursuing MS in Artificial Intelligence at [Northeastern University](https://www.khoury.northeastern.edu/). Before this, I worked as Machine Learning Engineer at [Vehant](https://www.vehant.com/).
 
 I'm B.Tech graduate in Computer Science and Engineering from AIACTR, GGSIPU, Delhi. My interests lie in solving machine learning and deep learning-based problems, preferably in the field of Computer Vision. I also have a keen interest in data science.
 
 ***Prefers to work with 🌱:*** Python, C++, PyTorch, Tensorflow/Keras, NVIDIA DeepStream, Django
 
-***Interests 🔭:*** stargazing, travelling, playing guitar, solving sudoku. 
+***Interests 🔭:*** stargazing, traveling, playing guitar, solving sudoku. 
 
 
 <p align="left"> 

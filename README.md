@@ -1,8 +1,8 @@
 ### Hi, I'm Harshit. 👋
 
-I'm currently pursuing MS in Artificial Intelligence at [Northeastern University](https://www.khoury.northeastern.edu/). Before this, I worked as Machine Learning Engineer at [Vehant](https://www.vehant.com/).
+I'm currently pursuing *MS in Artificial Intelligence* at [Khoury College of Computer Sciences, Northeastern University](https://www.khoury.northeastern.edu/). I did a *Deep Learning Research Co-op* at [The Jackson Laboratory](https://www.jax.org/) in Fall 2023. Previously, I worked as a *Machine Learning Engineer* at [Vehant Technologies ](https://www.vehant.com/) for two years.
 
-I'm B.Tech graduate in Computer Science and Engineering from AIACTR, GGSIPU, Delhi. My interests lie in solving machine learning and deep learning-based problems, preferably in the field of Computer Vision. I also have a keen interest in data science.
+I'm a BTech graduate in Computer Science and Engineering from AIACTR, GGSIPU, Delhi. My interests lie in solving machine learning and deep learning-based problems, preferably in the field of Computer Vision. I also have a keen interest in data science.
 
 ***Prefers to work with 🌱:*** Python, C++, PyTorch, Tensorflow/Keras, NVIDIA DeepStream, Django
 
